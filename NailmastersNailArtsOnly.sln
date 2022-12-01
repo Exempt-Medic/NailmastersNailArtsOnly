@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NailmastersNailArtsOnly", "NailmastersNailArtsOnly\NailmastersNailArtsOnly.csproj", "{90B7763B-7B01-4941-AAC6-FB6154E9B4BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{7A406562-7BE0-41B8-A3CD-4D3AADF4937B}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
+		.github\dependabot.yml = .github\dependabot.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B7763B-7B01-4941-AAC6-FB6154E9B4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B7763B-7B01-4941-AAC6-FB6154E9B4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B7763B-7B01-4941-AAC6-FB6154E9B4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B7763B-7B01-4941-AAC6-FB6154E9B4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8ED770-107F-41E8-B1AC-673642D1E2D5}
+	EndGlobalSection
+EndGlobal
